@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/stéphane-liem-nguyen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="zenchiyu.github.io">
+  <a href="https://zenchiyu.github.io">
     <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=website&logoColor=white" alt="website Badge"/>
   </a>
   <a href="https://www.researchgate.net/profile/Stephane_Nguyen?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJfZGlyZWN0In19">
