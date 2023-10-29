@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Stéphane Nguyen, a CS student fond of machine learning and currently ramping-up in deep learning, more specifically in generative modelling!
+
+- Website: [zenchiyu.github.io](zenchiyu.github.io)
+
 <!--
 **Zenchiyu/Zenchiyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
