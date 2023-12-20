@@ -18,7 +18,7 @@
   
   Currently ramping up in deep learning, more specifically in generative modelling generating ships and horses :)
 
-  ![](https://github.com/Zenchiyu/diffusion/raw/main/results/images/cifar10/euler/cond_90_cfgscale_2_5.png)
+  ![](https://github.com/Zenchiyu/diffusion/raw/main/results/images/cifar10/euler/cond_10_cfgscale_2_5.png)
 </div>
 
 
