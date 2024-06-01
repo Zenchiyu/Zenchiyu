@@ -14,9 +14,9 @@
   
   ### Hi there 👋
 
-  I'm Stéphane Nguyen, a CS student fond of machine learning.
+  I'm Stéphane Nguyen, a CS student fond of machine learning, and currently working on world models.
   
-  Currently ramping up in deep learning, more specifically in generative modelling generating ships and horses :)
+  Was previously generating ships and horses :)
 
   ![](https://github.com/Zenchiyu/diffusion/raw/main/results/images/cifar10/euler/cond_10_cfgscale_2_5.png)
 </div>
