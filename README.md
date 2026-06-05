@@ -14,11 +14,9 @@
   
   ### Hi there 👋
 
-  I'm Stéphane Nguyen, a CS student fond of machine learning, and currently working on world models.
+  I'm Stéphane Nguyen, a CS student fond of machine learning, and currently working on continuous diffusion models for discrete tasks.
+  Was previously working on world models (and still think about them).
   
-  Was previously generating ships and horses :)
-
-  ![](https://github.com/Zenchiyu/diffusion/raw/main/results/images/cifar10/euler/cond_10_cfgscale_2_5.png)
 </div>
 
 
